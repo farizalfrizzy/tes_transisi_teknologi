@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Note
+#file apk berada di build\app\outputs\flutter-apk\
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
